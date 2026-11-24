@@ -3,5 +3,3 @@ This repository contains the details of my internship at The University of Tokyo
 It is organized as:
 -> Rapport_de_Stage_Master_Thesis.pdf : The complete report of the internship.
 -> Defense__Pierre-ROGER_s_internship.pdf : The support for the defense of the internship realized in Polytech Nancy.
--> Python : Folder containing the different files used for the automatized workflow.
--> OpenFOAM : Folder containing the template used for the CFD simulations.
